@@ -1,0 +1,135 @@
+/*************
+Header
+*************/
+
+
+h3{
+	font-family: 'Raleway', sans-serif;
+}
+
+#header-1 {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	font-size: 50px;
+	font-family: 'Lobster', cursive;
+	
+}
+
+.headers {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+
+
+/*************
+Body Div
+*************/
+body {
+	margin: 0;
+}
+
+div {
+	background-color: white;
+	width: 50%;
+	margin: auto;
+}
+
+.production-viewings{
+	text-align: center;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+#about-us {
+	font-family: 'Raleway', sans-serif;
+}
+
+.inputss {
+	margin: auto;
+	text-align: center;
+}
+
+/*************
+Images
+*************/
+
+#div-images{
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 0px;
+	text-align: center;
+}
+
+
+
+/*************
+Nav Bar
+*************/
+nav {
+	position: top;
+	top: 0;
+	background: linear-gradient(to bottom, #951E04, #D3310E, #951E04);
+	height: 100px;
+	width: 100%;
+	
+}
+
+ul {
+	padding-left: 0;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	padding-top: 20px;
+}
+
+li {
+	display: inline;
+	font-size: 20px;
+}
+
+a{
+	padding-top: 10px;
+}
+
+ a, a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	
+	color: lightgrey;
+}
+
+.seperate{
+	color: rgb(78, 75, 75);
+}
+
+/*************
+Table
+*************/
+
+table {
+	border-style: solid; 
+	border-color: grey;
+	padding: 5px;
+	width: 50%;
+	font-family: 'Raleway', sans-serif;
+	margin: auto;
+	
+}
+
+td{
+	padding: 10px;
+	text-align: center;
+}
+
+
