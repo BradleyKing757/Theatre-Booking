@@ -11,8 +11,6 @@ $conn = myconnect();
 	<title>Main Page</title>
 </head>
 
-
-
 <!--Navigation Bar-->
 <nav class="main-nav">
 		<ul>
@@ -31,8 +29,6 @@ $conn = myconnect();
 	</nav>
 
 <body>
-	
-	
 	<h3 class="production-viewings">Production Viewings</h3>
 	<?php
 
@@ -68,8 +64,6 @@ $conn = myconnect();
 		<?php
 		}
 		?>
-			
-		
 		
 		</table>
 		
