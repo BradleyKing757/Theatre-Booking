@@ -11,9 +11,8 @@ $conn = myconnect();
 $price = $_GET['BasicTicketPrice'];
 $perfDate = $_GET['PerfDate'];
 $perfTime = $_GET['PerfTime'];
-
-
 ?>
+	
 <script>
 function check(){
 	var checkBoxes = document.getElementsByName("seatsAvailable");
@@ -30,8 +29,6 @@ function check(){
 		}
 	}
 	alert("Seats chosen: " + seatNums.toString() + "\nSeat Prices: " + ticketPrices.toString() + "\nTotal price: " + "£" + total);
-	
-	
 }
 </script>
 </head>
@@ -103,11 +100,6 @@ $handle = $conn->prepare($sql);
 			<input type="submit" value="Book">
 		</form>
 	</div>
-
-
-
-						
-
 
 </body>
 
