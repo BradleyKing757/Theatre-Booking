@@ -7,9 +7,6 @@
 <?php
 include('connect.php');
 $conn = myconnect();
-
-
-
 ?>
 
 </head>
@@ -34,9 +31,6 @@ $conn = myconnect();
 
 
 <h1>Confirm your Booking!</h1>
-
-
-
 
 </body>
 </html>
