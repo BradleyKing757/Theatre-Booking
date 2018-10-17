@@ -8,8 +8,6 @@
 include('connect.php');
 $conn = myconnect();
 ?>
-
-
 	<title>Performance Page</title>
 </head>
 
@@ -71,7 +69,5 @@ $conn = myconnect();
 	}
 
 ?>
-	
-
 	</body>
 </html>
